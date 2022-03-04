@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaytonAliyah01
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on beginner friendly Websites
 - 📫 How to reach me PaytonAliyah01#2507
 
 <!---
