@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PaytonAliyah01
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on beginner friendly Websites
-- 📫 How to reach me PaytonAliyah01#2507
+- 🌱 I’m currently learning C# and aps.net core MVC
+- 💞️ I’m looking to collaborate on beginner-friendly Websites
+
 
 <!---
 PaytonAliyah01/PaytonAliyah01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
